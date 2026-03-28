@@ -1,63 +1,95 @@
-👋 Hi there, I'm Dega Simha Reddy
+<!-- DARK PROFESSIONAL README -->
 
-Aspiring Data Engineer & Software Engineer with strong skills in Java, SQL, AWS, and Databricks. Passionate about building scalable data pipelines and data-driven applications. Experienced in ETL processes, PySpark, and cloud-based data engineering solutions.
+<h1 align="center">👋 Hi, I'm Dega Simha Reddy</h1>
 
-🧑‍💻 Tech Stack
-💻 Programming
-☕ Java
-🐍 Python
-🌐 Web Technologies
-📄 HTML5
-🎨 CSS3
-⚡ JavaScript
-🗄️ Database & Querying
-🐬 MySQL
-📊 SQL
-⚡ Spark SQL
-☁️ Cloud & Big Data
-☁️ AWS (S3, Glue)
-🧱 Databricks
-🔷 Delta Lake
-🔄 Data Engineering
-🔁 ETL Pipelines
-⚙️ Data Processing
-📦 Batch Processing
-🔧 Data Transformation
-⚡ PySpark
-🛠 Tools & Platforms
-🔧 Git & GitHub
-🧑‍💻 VS Code
-🧰 Eclipse
-📂 Projects
-📊 Bank Customer Churn Data Engineering Pipeline
+<p align="center">
+  <b>Data Engineer & Software Engineer</b><br>
+  Java • SQL • AWS • Databricks • PySpark
+</p>
 
-Built an end-to-end data pipeline using AWS S3, Databricks, and PySpark. Implemented ETL processes and Medallion Architecture (Bronze, Silver, Gold) for scalable data processing and analytics.
+---
 
-🎬 Movie Revenue Prediction System
+## 🚀 About Me
+💡 Aspiring Data Engineer with hands-on experience in building scalable data pipelines using AWS, Databricks, and PySpark.  
+📊 Passionate about data-driven solutions and cloud technologies.  
+⚡ Strong foundation in problem-solving, ETL pipelines, and backend development.  
 
-Developed a machine learning model using Python and Scikit-learn with 85% accuracy. Performed data preprocessing, feature engineering, and regression analysis.
+---
 
-🎮 Unreal Engine Game
+## 🧑‍💻 Tech Stack
 
-Designed a multi-level game with task-based progression and scoring system using Unreal Engine.
+### 💻 Programming
+- ☕ Java  
+- 🐍 Python  
 
-🧠 Core Strengths
-🧩 Problem Solving & Analytical Thinking
-🤝 Team Collaboration
-⏱ Time Management
-🚀 Quick Learning Ability
-📈 DSA & Learning
+### 🌐 Web
+- 📄 HTML5  
+- 🎨 CSS3  
+- ⚡ JavaScript  
 
-I actively practice Data Structures and Algorithms to improve problem-solving skills and coding efficiency.
+### 🗄️ Database & Querying
+- 🐬 MySQL  
+- 📊 SQL  
+- ⚡ Spark SQL  
 
-🔢 Arrays & Strings
-🔍 Searching & Sorting
-🔁 Recursion
-🔗 Basic Data Structures
-🔗 Let's Connect
+### ☁️ Cloud & Big Data
+- ☁️ AWS (S3, Glue)  
+- 🧱 Databricks  
+- 🔷 Delta Lake  
 
-📧 Email: simhadega77020@gmail.com
+### 🔄 Data Engineering
+- ⚙️ PySpark  
+- 🔁 ETL Pipelines  
+- 📦 Batch Processing  
+- 🔧 Data Transformation  
 
-💼 LinkedIn: https://www.linkedin.com/in/dega-simha-reddy-584689233
+### 🛠 Tools
+- 🔧 Git & GitHub  
+- 💻 VS Code  
+- 🧰 Eclipse  
 
-💻 GitHub: https://github.com/192111123
+---
+
+## 📂 Projects
+
+### 📊 Bank Customer Churn Pipeline
+- Built ETL pipeline using AWS S3, Databricks, and PySpark  
+- Implemented Medallion Architecture (Bronze, Silver, Gold)  
+- Performed data cleaning, transformation, and validation  
+
+### 🎬 Movie Revenue Prediction
+- Built ML model using Python & Scikit-learn  
+- Achieved 85% accuracy  
+- Applied feature engineering and regression  
+
+### 🎮 Unreal Engine Game
+- Developed multi-level interactive game  
+- Implemented scoring and task-based progression  
+
+---
+
+## 📈 DSA & Learning
+- Arrays & Strings  
+- Searching & Sorting  
+- Recursion  
+- Data Structures  
+
+📍 Platforms: LeetCode • GeeksforGeeks  
+
+---
+
+## 🔗 Connect With Me
+📧 Email: simhadega77020@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/dega-simha-reddy-584689233  
+💻 GitHub: https://github.com/192111123  
+
+---
+
+## 💡 Fun Fact
+I enjoy solving real-world problems using data and continuously exploring new technologies in Data Engineering 🚀  
+
+---
+
+<p align="center">
+  ⭐ <b>Let's build something amazing together!</b> ⭐
+</p>
